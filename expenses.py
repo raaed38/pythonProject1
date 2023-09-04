@@ -5,3 +5,4 @@ for i in range(7):
 total = sum(expenses)
 print("You spent $", total, sep='')
 
+
