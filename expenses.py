@@ -6,3 +6,4 @@ total = sum(expenses)
 print("You spent $", total, sep='')
 
 
+
